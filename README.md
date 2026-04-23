@@ -5,6 +5,7 @@ This repository features a comprehensive End-to-End Human Resources Analytics So
 
 <img width="975" height="555" alt="image" src="https://github.com/user-attachments/assets/881034d1-3bf8-42d7-909e-a55bc6374265" />
 
+<br>
 
 •	Purpose: Provides a high-level overview of the workforce composition and geographic footprint.
 •	Key Visuals: KPI Cards, Donut Chart, and Map Visual.
