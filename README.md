@@ -7,12 +7,12 @@ This repository features a comprehensive End-to-End Human Resources Analytics So
 
 <br>
 
-•	Purpose: Provides a high-level overview of the workforce composition and geographic footprint.
-•	Key Visuals: KPI Cards, Donut Chart, and Map Visual.
-•	Information:
-o	Core metrics including total employee count (113), geographic reach (5 countries), and High Potential/Performance percentages.
-o	Employee distribution by Subsidiary (e.g., KRH, BIG) and Job Grade.
-o	Geographic mapping of staff across the GCC region (Kuwait, KSA, UAE, Bahrain).
+•	Purpose: Provides a high-level overview of the workforce composition and geographic footprint.<br>
+•	Key Visuals: KPI Cards, Donut Chart, and Map Visual.<br>
+•	Information:<br>
+o	Core metrics including total employee count (113), geographic reach (5 countries), and High Potential/Performance percentages.<br>
+o	Employee distribution by Subsidiary (e.g., KRH, BIG) and Job Grade.<br>
+o	Geographic mapping of staff across the GCC region (Kuwait, KSA, UAE, Bahrain).<br>
 
 <br>
  
@@ -20,11 +20,11 @@ o	Geographic mapping of staff across the GCC region (Kuwait, KSA, UAE, Bahrain).
 
 <br>
 
-• Purpose: Visualizes employee distribution across various business functions and seniority levels.
-• Key Visual: A Stacked Bar Chart showing total headcount per department.
-• Information: * Breakdown of departments (Finance, IT, HR, etc.) by Career Band (Top Management, Professional, Mid Management, etc.).
-•	Identifies Finance as the largest department with a high concentration of Professional/Supervisory staff.
-•	Highlights talent distribution and departmental scaling.
+• Purpose: Visualizes employee distribution across various business functions and seniority levels.<br>
+• Key Visual: A Stacked Bar Chart showing total headcount per department.<br>
+• Information: * Breakdown of departments (Finance, IT, HR, etc.) by Career Band (Top Management, Professional, Mid Management, etc.).<br>
+•	Identifies Finance as the largest department with a high concentration of Professional/Supervisory staff.<br>
+•	Highlights talent distribution and departmental scaling.<br>
 
  <br>
  
@@ -33,12 +33,12 @@ o	Geographic mapping of staff across the GCC region (Kuwait, KSA, UAE, Bahrain).
 <br>
 
 
-•  Purpose: Analyzes workforce sentiment and engagement trends over a three-year period (2021–2023).
-•  Key Visuals: Stacked Column Chart and Multi-line Trend Chart.
-•  Information:
-•	Tracks the number of employees across different Engagement Levels (ranked 1-10).
-•	The line chart identifies fluctuations in engagement scores over time, allowing for year-over-year sentiment analysis.
-•	Helps HR identify if engagement initiatives are successfully moving employees into higher-tier scores.
+•  Purpose: Analyzes workforce sentiment and engagement trends over a three-year period (2021–2023).<br>
+•  Key Visuals: Stacked Column Chart and Multi-line Trend Chart.<br>
+•  Information:<br>
+•	Tracks the number of employees across different Engagement Levels (ranked 1-10).<br>
+•	The line chart identifies fluctuations in engagement scores over time, allowing for year-over-year sentiment analysis.<br>
+•	Helps HR identify if engagement initiatives are successfully moving employees into higher-tier scores.<br>
 
 <br>
 
