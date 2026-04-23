@@ -9,7 +9,7 @@ This repository features a comprehensive End-to-End Human Resources Analytics So
 
 •	Purpose: Provides a high-level overview of the workforce composition and geographic footprint.<br>
 •	Key Visuals: KPI Cards, Donut Chart, and Map Visual.<br>
-•	Information:<br>
+•	Information: <br>
 o	Core metrics including total employee count (113), geographic reach (5 countries), and High Potential/Performance percentages.<br>
 o	Employee distribution by Subsidiary (e.g., KRH, BIG) and Job Grade.<br>
 o	Geographic mapping of staff across the GCC region (Kuwait, KSA, UAE, Bahrain).<br>
@@ -22,7 +22,7 @@ o	Geographic mapping of staff across the GCC region (Kuwait, KSA, UAE, Bahrain).
 
 • Purpose: Visualizes employee distribution across various business functions and seniority levels.<br>
 • Key Visual: A Stacked Bar Chart showing total headcount per department.<br>
-• Information: * Breakdown of departments (Finance, IT, HR, etc.) by Career Band (Top Management, Professional, Mid Management, etc.).<br>
+• Information: <br> * Breakdown of departments (Finance, IT, HR, etc.) by Career Band (Top Management, Professional, Mid Management, etc.).<br>
 •	Identifies Finance as the largest department with a high concentration of Professional/Supervisory staff.<br>
 •	Highlights talent distribution and departmental scaling.<br>
 
@@ -46,12 +46,12 @@ o	Geographic mapping of staff across the GCC region (Kuwait, KSA, UAE, Bahrain).
 
 <br>
  
-•  Purpose: Aggregates assessment data to compare "Current Performance" against "Future Potential."
-•  Key Visuals: Pie Charts and Horizontal Bar Charts.
-•  Information:
-•	Categorizes the workforce into broad levels: Average & Above vs. Below Average for both potential and performance.
-•	Shows a high concentration of employees in the "Below Average" potential bracket (92%), suggesting a need for leadership development.
-•	Provides a clean spread of scores to identify outliers and top-tier talent.
+•  Purpose: Aggregates assessment data to compare "Current Performance" against "Future Potential."<br>
+•  Key Visuals: Pie Charts and Horizontal Bar Charts.<br>
+•  Information:<br>
+•	Categorizes the workforce into broad levels: Average & Above vs. Below Average for both potential and performance.<br>
+•	Shows a high concentration of employees in the "Below Average" potential bracket (92%), suggesting a need for leadership development.<br>
+•	Provides a clean spread of scores to identify outliers and top-tier talent.<br>
 
  <br>
  
@@ -60,12 +60,12 @@ o	Geographic mapping of staff across the GCC region (Kuwait, KSA, UAE, Bahrain).
  
  <br>
 
-•  Purpose: A drill-down view for detailed talent management of specific individuals.
-•  Key Visuals: 9-Box Grid, Line Chart, and Data Table.
-•  Information:
-•	Features a 9-Box Talent Matrix to classify employees (e.g., "Solid Performer," "Rising Star").
-•	Displays a profile summary including Job Title, Nationality, and Line Manager.
-•	Includes a Performance Score Trend line to track an individual's growth or decline over multiple years.
+•  Purpose: A drill-down view for detailed talent management of specific individuals.<br>
+•  Key Visuals: 9-Box Grid, Line Chart, and Data Table.<br>
+•  Information:<br>
+•	Features a 9-Box Talent Matrix to classify employees (e.g., "Solid Performer," "Rising Star").<br>
+•	Displays a profile summary including Job Title, Nationality, and Line Manager.<br>
+•	Includes a Performance Score Trend line to track an individual's growth or decline over multiple years.<br>
 
 <br>
 
@@ -73,11 +73,11 @@ o	Geographic mapping of staff across the GCC region (Kuwait, KSA, UAE, Bahrain).
  
 <br>
  
-•  Purpose: Outlines actionable growth plans for high-potential employees based on assessment gaps.
-•  Technical Detail: This visual uses a Repeater/Table Layout to map qualitative data (Specific Action Items) to individual employee profiles.
-•  Information: * Lists prioritized developmental tasks such as "Change Management," "360-degree feedback," and "Executive Shadowing."
-•	Categorizes training into three main buckets: Formal Education, Mentorship, and On-the-job Experiences.
-•	Serves as a roadmap for HR to track individual upskilling progress.
+•  Purpose: Outlines actionable growth plans for high-potential employees based on assessment gaps.<br>
+•  Technical Detail: This visual uses a Repeater/Table Layout to map qualitative data (Specific Action Items) to individual employee profiles.<br>
+•  Information: <br>* Lists prioritized developmental tasks such as "Change Management," "360-degree feedback," and "Executive Shadowing."<br>
+•	Categorizes training into three main buckets: Formal Education, Mentorship, and On-the-job Experiences.<br>
+•	Serves as a roadmap for HR to track individual upskilling progress.<br>
 
 <br>
 
@@ -85,12 +85,12 @@ o	Geographic mapping of staff across the GCC region (Kuwait, KSA, UAE, Bahrain).
 
 <br>
  
-•  Purpose: Identifies the "bench strength" for critical C-suite and management positions.
-•  Technical Detail: A Matrix Heatmap that displays headcount distribution across different readiness timelines.
-•  Information:
-•	Breaks down key roles (CEO, CFO, COO) by how soon a successor will be ready (e.g., "Ready in 1 Year" vs. "3-5 Years").
-•	Provides a risk assessment for the organization; for example, it highlights roles that currently have zero immediate successors (empty "Ready in 1 Year" columns).
-•	Supports long-term strategic workforce planning.
+•  Purpose: Identifies the "bench strength" for critical C-suite and management positions.<br>
+•  Technical Detail: A Matrix Heatmap that displays headcount distribution across different readiness timelines.<br>
+•  Information:<br>
+•	Breaks down key roles (CEO, CFO, COO) by how soon a successor will be ready (e.g., "Ready in 1 Year" vs. "3-5 Years").<br>
+•	Provides a risk assessment for the organization; for example, it highlights roles that currently have zero immediate successors (empty "Ready in 1 Year" columns).<br>
+•	Supports long-term strategic workforce planning.<br>
 
 <br>
  
@@ -99,11 +99,11 @@ o	Geographic mapping of staff across the GCC region (Kuwait, KSA, UAE, Bahrain).
 
  <br>
 
-•  Purpose: A strategic visualization of the talent pipeline, mapping individual status against readiness levels.
-•  Technical Detail: An Advanced Scatter/Grid Plot using custom HTML/Image markers to represent employees.
-•  Information:
-•	Maps employees on an X-axis of Time-to-Readiness (from "Not Ready" to "Ready") and a Y-axis of Potential/Performance Level.
-•	Uses "Status Tags" (Improved, Stable, New, Reviewed) to show the trajectory of an employee’s development over time.
-•	Provides a bird’s-eye view of who is currently prepared to step into leadership roles and who requires a "Focus on Development."
+•  Purpose: A strategic visualization of the talent pipeline, mapping individual status against readiness levels.<br>
+•  Technical Detail: An Advanced Scatter/Grid Plot using custom HTML/Image markers to represent employees.<br>
+•  Information:<br>
+•	Maps employees on an X-axis of Time-to-Readiness (from "Not Ready" to "Ready") and a Y-axis of Potential/Performance Level.<br>
+•	Uses "Status Tags" (Improved, Stable, New, Reviewed) to show the trajectory of an employee’s development over time.<br>
+•	Provides a bird’s-eye view of who is currently prepared to step into leadership roles and who requires a "Focus on Development."<br>
 
 
