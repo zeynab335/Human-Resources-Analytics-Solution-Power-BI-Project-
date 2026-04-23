@@ -1,6 +1,7 @@
 # Human-Resources-Analytics-Solution-Power-BI-Project-
 This repository features a comprehensive End-to-End Human Resources Analytics Solution designed to empower organizations with data-driven talent management. The project transforms raw workforce data into a series of interactive dashboards that track employee performance, engagement, and long-term leadership sustainability.
 
+<br>
 
 <img width="975" height="555" alt="image" src="https://github.com/user-attachments/assets/881034d1-3bf8-42d7-909e-a55bc6374265" />
 
